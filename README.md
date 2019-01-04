@@ -9,7 +9,7 @@ Most if not all of these files will be aimed towards BD releases from Moozzi2 du
 
 1. Download the Patch (.rar) file and extract it to the same directory as your Moozzi2 MKVs.
 2. Run **3.Apply Patch-Windows.bat** OR **3.Apply Patch-Linux.sh**
-3. Once finished, your fully muxed files will be ready in the same directory! (You will find your original raws in a folder called 'old')
+3. Once finished, your fully muxed files will be ready in the same directory! (You'll find the original files in a folder called 'old')
 
 You can delete the patch files afterwards if you want.
 
