@@ -16,9 +16,9 @@ You can delete the patch files afterwards if you want.
 ## How to use the attachment files (for non-Moozzi2 encodes)
 
 1. Download the attachments (.rar) file and extract it somewhere for future reference.
-2. Open MKVToolNix ([Download it here](https://www.fosshub.com/MKVToolNix.html)) and add your MKV file.
-3. Add the .ass and .xml (if applicable) files from the extracted 'Attachments' folder, under the correct episode folder.
-4. Go to the 'Attachments' tab in MKVToolnix and drag the .otf and .ttf files from the same folder as previous.
+2. Open **MKVToolNix** ([Download it here](https://www.fosshub.com/MKVToolNix.html)) and add your MKV file.
+3. Add the **.ass** and **.xml** (if applicable) files from the extracted 'Attachments' folder, under the correct episode folder.
+4. Go to the 'Attachments' tab in MKVToolnix and drag the **.otf** and **.ttf** files from the same folder as previous.
 5. Select a destination for the fully muxed file at the bottom of MKVToolNix and then click 'Start multiplexing'
 
 Repeat the above steps for each episode as needed.
