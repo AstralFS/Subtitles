@@ -5,7 +5,7 @@ These files are free for use by anyone, but I request that you appropriately cre
 
 Most if not all of these files will be aimed towards BD releases from Moozzi2 due to the request of the community that lacks them. The subtitle scripts should work on other releases, however they will not be supported from me.
 
-# How to use the patch (xdelta) files (for Moozzi2 encodes only)
+## How to use the patch (xdelta) files (for Moozzi2 encodes only)
 
 1. Download the Patch (.rar) file and extract it to the same directory as your Moozzi2 MKVs.
 2. Run **3.Apply Patch-Windows.bat** OR **3.Apply Patch-Linux.sh**
@@ -13,7 +13,7 @@ Most if not all of these files will be aimed towards BD releases from Moozzi2 du
 
 You can delete the patch files afterwards if you want.
 
-# How to use the attachment files (for non-Moozzi2 encodes)
+## How to use the attachment files (for non-Moozzi2 encodes)
 
 1. Download the attachments (.rar) file and extract it somewhere for future reference.
 2. Open MKVToolNix ([Download it here](https://www.fosshub.com/MKVToolNix.html)) and add your MKV file.
@@ -23,6 +23,6 @@ You can delete the patch files afterwards if you want.
 
 Repeat the above steps for each episode as needed.
 
-# Need help?
+## Need help?
 
 You can contact me on Discord at Astral#3664 if you need any assistance.
