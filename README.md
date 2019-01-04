@@ -25,4 +25,4 @@ Repeat the above steps for each episode as needed.
 
 ## Need help?
 
-You can contact me on Discord at Astral#3664 if you need any assistance.
+You can contact me on Discord at **Astral#3664** if you need any assistance.
