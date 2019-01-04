@@ -1,4 +1,4 @@
-# Subtitles
+# Astral's Subtitles
 You can find all of Astral's subtitle scripts and patches, in their various states of completion, stored here.
 
 These files are free for use by anyone, but I request that you appropriately credit Astral (and/or the sources used) when using them for a project aimed at the public domain. Your compliance with this request is greatly appreciated.
