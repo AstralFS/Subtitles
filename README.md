@@ -3,7 +3,7 @@ You can find all of Astral's subtitle scripts and patches, in their various stat
 
 These files are free for use by anyone, but I request that you appropriately credit Astral (and/or the sources used) when using them for a project aimed at the public domain. Your compliance with this request is greatly appreciated.
 
-Most if not all of these files will be aimed towards BD releases from Moozzi2 due to the request of the community that lacks them. The subtitle scripts should work on other releases, however they will not be supported from me.
+> Most if not all of these files will be aimed towards BD releases from Moozzi2 due to the request of the community that lacks them. The subtitle scripts should work on other releases, however they will not be supported from me.
 
 ## How to use the patch (xdelta) files (for Moozzi2 encodes only)
 
