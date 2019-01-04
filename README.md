@@ -5,7 +5,7 @@ These files are free for use by anyone, but I request that you appropriately cre
 
 > Most if not all of these files will be aimed towards BD releases from Moozzi2 due to the request of the community that lacks them. The subtitle scripts should work on other releases, however they will not be supported from me.
 
-## How to use the patch (xdelta) files (for Moozzi2 encodes only)
+## How to use the patch files (for Moozzi2 encodes only)
 
 1. Download the Patch (.rar) file and extract it to the same directory as your Moozzi2 MKVs.
 2. Run **3.Apply Patch-Windows.bat** OR **3.Apply Patch-Linux.sh**
