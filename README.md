@@ -11,7 +11,7 @@ Most if not all of these files will be aimed towards BD releases from Moozzi2 du
 2. Run **3.Apply Patch-Windows.bat** OR **3.Apply Patch-Linux.sh**
 3. Once finished, your fully muxed files will be ready in the same directory! (You'll your original files in a folder called 'old')
 
-You can delete the patch files afterwards if you want.
+...You can delete the patch files afterwards if you want.
 
 ## How to use the attachment files (for non-Moozzi2 encodes)
 
